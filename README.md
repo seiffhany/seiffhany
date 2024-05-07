@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seiffhany&label=Profile%20views&color=0e75b6&style=flat" alt="seiffhany" /> </p>
 
-<a href="https://app.daily.dev/seifhany"><img src="./devcard.png" width="652" height="652/2" alt="Seif Hany's Dev Card"/></a>
+<a href="https://app.daily.dev/seifhany"><img src="./devcard.png" width="652/2" alt="Seif Hany's Dev Card"/></a>
 
 <!-- - 🌱 I’m currently learning **C#, ASP.NET Core** -->
 
