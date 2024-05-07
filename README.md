@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seiffhany&label=Profile%20views&color=0e75b6&style=flat" alt="seiffhany" /> </p>
 
+<a href="https://app.daily.dev/seifhany"><img src="https://api.daily.dev/devcards/v2/hqC1g7p6sLYzSn3d2RJKM.png?type=wide&r=9ht" width="652" alt="Seif Hany's Dev Card"/></a>
+
 <!-- - 🌱 I’m currently learning **C#, ASP.NET Core** -->
 
 - 📫 How to reach me **seif.naguib@gmail.com**
